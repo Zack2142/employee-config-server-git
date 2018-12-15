@@ -17,4 +17,4 @@ spring:
       client:
         url: http://localhost:8080
         username: admin
-        password: ‘{cipher}893469add03c7d207d67470f956b7cdc64707d45502cca7209c25a1aee2a57d7’
+        password: admin
