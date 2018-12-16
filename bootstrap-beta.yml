@@ -15,6 +15,6 @@ spring:
   boot:
     admin:
       client:
-        url: http://localhost:8080
+        url: https://localhost:18080
         username: admin
         password: '{cipher}a6bb621c825dce078aaf6f8cb3d3c7845ddce67357809de700d35e1bda33b9bf'
